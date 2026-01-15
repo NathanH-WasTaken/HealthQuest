@@ -1,5 +1,5 @@
 # Health Quest
-![Health Quest](public/images/HQfullLogo.png)
+![Health Quest](public/images/HQ_Full_Logo_White.png)
 ## Overview
 
 Health Quest is a client-side JavaScript web application that helps users grow and track there health both mentally and physically The app displays a curated list of Physical and Mental excercises each with details such as name,difficulty, and instructions . Users can browse the list and set there prefrences based on the level of difficulty they want to work on.
